@@ -1,0 +1,10 @@
+{
+  "apiVersion": 1,
+  "id": "pdf-range",
+  "name": "PDF page ranges",
+  "version": "1.0.0",
+  "minAppVersion": "0.6.0",
+  "description": "Adds \"PDF (choose pages)…\" to the attach menu: pick a page range, cut it with qpdf into the LearnHarness assets folder, and attach only those pages.",
+  "main": "main.js",
+  "backend": "backend.cjs"
+}
